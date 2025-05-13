@@ -1,0 +1,2 @@
+Training complete in 6m 12s
+Best val Acc: 0.947368
